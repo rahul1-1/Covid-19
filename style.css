@@ -1,0 +1,19 @@
+.header {
+    background-color: teal;
+    padding: 1px;
+    margin-bottom: 1px;
+    width: 100%;
+    height: 15px;
+}
+
+footer {
+    background-color: rgb(7, 70, 70);
+    padding: 1px;
+    color: aliceblue;
+    margin: 1px;
+}
+
+body {
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    ;
+}
